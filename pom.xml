@@ -56,9 +56,9 @@
     <url>https://raven-source.github.io/</url>
 
     <scm>
-        <url>https://github.com/Raven-Source/raven-commons-java</url>
-        <connection>scm:git:https://github.com/Raven-Source/raven-commons-java.git</connection>
-        <developerConnection>scm:git:https://github.com/Raven-Source/raven-commons-java.git</developerConnection>
+        <url>https://github.com/Raven-Source/raven-parent</url>
+        <connection>scm:git:https://github.com/Raven-Source/raven-parent.git</connection>
+        <developerConnection>scm:git:https://github.com/Raven-Source/raven-parent.git</developerConnection>
         <tag>HEAD</tag>
     </scm>
 

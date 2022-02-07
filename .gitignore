@@ -1,0 +1,35 @@
+# maven ignore
+
+outputs/
+
+target/
+*.versionsBackup
+
+# eclipse ignore
+.settings/
+.project
+.classpath
+
+# idea ignore
+.idea/
+*.ipr
+*.iml
+*.iws
+
+# temp ignore
+*.log
+*.cache
+*.diff
+*.patch
+*.tmp
+/temp
+/tmp
+
+# system ignore
+.DS_Store
+Thumbs.db
+
+gitlabci/.generated
+
+# VSCode
+.vscode
